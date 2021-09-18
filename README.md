@@ -1,6 +1,6 @@
 # BootCamp_Digital
 Aulas_HTML_CSS.
 
-aULAS DE hTML E Css.
+Aulas de HTML e CSS.
 Foi Recriado a Tela de Login do Instagram.
-Usando IDE pHpStorn.
+Usando IDE PHPStorn.
